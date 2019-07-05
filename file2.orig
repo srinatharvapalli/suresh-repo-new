@@ -1,0 +1,6 @@
+this is file2.
+<<<<<<< HEAD
+edited by local user again.
+=======
+edited by central user again.
+>>>>>>> 021a28b10ebfdf7763df30f7419b15d0b45a1d89
